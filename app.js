@@ -4,7 +4,6 @@
 // console.log(Math.min(...array))
 
 
-
 // const x = 4 ;
 // let y = Math.pow(x, 2);
 // console.log(y)
